@@ -239,17 +239,17 @@ def page1(is_demo=False):
                                                  "disabled": True}
                                                 ])
                 if action == "查看原图":
-                    pywebio.output.popup("功能不可用",
-                                         [pywebio.output.put_markdown("由于渲染消耗算力极大，此功能在CPU服务器不可用"),
-                                          pywebio.output.put_markdown("### 请点击“查看单层原图”")])
-                    # show_img(temp_file_path, user_ip, 1)
+                    # pywebio.output.popup("功能不可用",
+                    #                      [pywebio.output.put_markdown("由于渲染消耗算力极大，此功能在CPU服务器不可用"),
+                    #                       pywebio.output.put_markdown("### 请点击“查看单层原图”")])
+                    show_img(temp_file_path, user_ip, 1)
                     pywebio.output.clear()
                     continue
                 if action == "查看热力图":
-                    pywebio.output.popup("功能不可用",
-                                         [pywebio.output.put_markdown("由于渲染消耗算力极大，此功能在CPU服务器不可用"),
-                                          pywebio.output.put_markdown("### 请点击“查看单层热力图”")])
-                    # show_img(temp_file_path, user_ip, 3)
+                    # pywebio.output.popup("功能不可用",
+                    #                      [pywebio.output.put_markdown("由于渲染消耗算力极大，此功能在CPU服务器不可用"),
+                    #                       pywebio.output.put_markdown("### 请点击“查看单层热力图”")])
+                    show_img(temp_file_path, user_ip, 3)
                     pywebio.output.clear()
                     continue
                 if action == "查看单层原图":
