@@ -29,9 +29,9 @@ demo01.py是项目入口，运行此文件即可启动服务器
 > python demo01.py
 
 复制链接到浏览器打开
-![image](https://github.com/bytesc/Image_Recognition_WebGUI/tree/main/readme_static/readme_img/10.png) 
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/10.png) 
 点击”Demo“即可进入Web界面
-![image](https://github.com/bytesc/Image_Recognition_WebGUI/tree/main/readme_static/readme_img/11.png)
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/11.png)
 
 
 ## 项目结构
