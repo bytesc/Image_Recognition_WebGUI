@@ -8,16 +8,16 @@
 
 ## 界面展示
 * 进入web界面
-![image](.\readme_static\readme_img\4.png)
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/4.png)
 * 点击"使用demo.nii"，可以使用默认的demo图像测试识别功能
-![image](.\readme_static\readme_img\3.png)
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/tree/main/readme_static/readme_img/3.png)
 * 也可以自己上传医学影像
-![image](.\readme_static\readme_img\9.png)
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/tree/main/readme_static/readme_img/9.png)
 * 点击"查看图像"，渲染参数热力图
-![image](.\readme_static\readme_img\5.png)
-![image](.\readme_static\readme_img\6.png)
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/tree/main/readme_static/readme_img/5.png)
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/tree/main/readme_static/readme_img/6.png)
 * 根据上传的图像，生成参数相关性热力图
-![image](.\readme_static\readme_img\7.png)
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/tree/main/readme_static/readme_img/7.png)
 
 ## 如何使用
 python版本3.9
@@ -29,9 +29,9 @@ demo01.py是项目入口，运行此文件即可启动服务器
 > python demo01.py
 
 复制链接到浏览器打开
-![](.\readme_static\readme_img\10.png) 
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/tree/main/readme_static/readme_img/10.png) 
 点击”Demo“即可进入Web界面
-![](.\readme_static\readme_img\11.png)
+![image](https://github.com/bytesc/Image_Recognition_WebGUI/tree/main/readme_static/readme_img/11.png)
 
 
 ## 项目结构
