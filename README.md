@@ -33,6 +33,8 @@ demo01.py是项目入口，运行此文件即可启动服务器
 点击”Demo“即可进入Web界面
 ![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/11.png)
 
+之后，可以点击“使用demo.nii”使用默认的测试样例。也可以点击“上传.nii”，选择readme_static/test文件夹内不同类别的图像文件上传测试
+
 
 ## 项目结构
 ```
@@ -45,13 +47,20 @@ demo01.py是项目入口，运行此文件即可启动服务器
     │  └─img_raw
     ├─nii
     ├─readme_static
-    │  └─readme_img
+    │  ├─readme_img
+    │  └─test
+    │      ├─AD
+    │      ├─CN
+    │      ├─EMCI
+    │      ├─LMCI
+    │      └─MCI
     └─run_logs
 ```
 * data文件夹存放部分静态资源，其中的model_save文件夹存放训练好的模型
 * imgs文件夹存放渲染的图片
 * nii文件夹存放用户上传的医学影像数据
 * readme_static存放readme文档中用的静态资源
+* readme_static/test文件夹内存放了一些五个类别的影像文件，可用于测试
 * run_logs存放用户访问日志
 
 ref:  https://github.com/moboehle/Pytorch-LRP
