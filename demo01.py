@@ -24,7 +24,8 @@ from pyecharts import options as opts
 
 def bar_base(data) -> Bar:
     c = (
-        Bar({"theme": ThemeType.MACARONS})
+        Bar()
+        # Bar({"theme": ThemeType.MACARONS})
         .add_xaxis(["CN", "EMCI", "MCI", "LMCI", "AD"])
         .add_yaxis("output_value", data, markpoint_opts=["max"])
         .set_global_opts(
