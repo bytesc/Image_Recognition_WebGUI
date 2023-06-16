@@ -14,16 +14,16 @@
 ## 界面展示
 
 - 进入 web 界面
-  ![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/4.png)
+  ![image](./readme_static/readme_img/4.png)
 - 点击"使用 demo.nii"，可以使用默认的 demo 图像测试识别功能
-  ![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/3.png)
+  ![image](./readme_static/readme_img/3.png)
 - 也可以自己上传医学影像
-  ![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/9.png)
+  ![image](./readme_static/readme_img/9.png)
 - 点击"查看图像"，渲染参数热力图
-  ![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/5.png)
-  ![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/6.png)
+  ![image](./readme_static/readme_img/5.png)
+  ![image](./readme_static/readme_img/6.png)
 - 根据上传的图像，生成参数相关性热力图
-  ![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/7.png)
+  ![image](./readme_static/readme_img/7.png)
 
 ## 如何使用
 
@@ -44,9 +44,9 @@ python demo01.py
 ```
 
 复制链接到浏览器打开
-![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/10.png)
+![image](./readme_static/readme_img/10.png)
 点击”Demo“即可进入 Web 界面
-![image](https://github.com/bytesc/Image_Recognition_WebGUI/blob/main/readme_static/readme_img/11.png)
+![image](./readme_static/readme_img/11.png)
 
 之后，可以点击“使用 demo.nii”使用默认的测试样例。也可以点击“上传.nii”，选择 readme_static/test 文件夹内不同类别的图像文件上传测试
 
