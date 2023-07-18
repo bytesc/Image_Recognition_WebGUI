@@ -2,7 +2,9 @@
 
 基于 ADNI 数据集的阿尔兹海默智能诊断 Web 应用：AI 人工智能图像识别-Pytorch；可视化 Web 图形界面-Pywebio； nii 医学影像识别。100%纯 Python
 
-[个人网站：www.bytesc.club](http://www.bytesc.club)
+[个人网站：www.bytesc.top](http://www.bytesc.top) 含轻量化版本在线演示
+
+[轻量化版本链接](https://github.com/bytesc/Image-Recognition-system)
 
 ## 功能简介
 
