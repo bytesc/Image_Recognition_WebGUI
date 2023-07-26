@@ -6,7 +6,7 @@
 
 [个人网站：www.bytesc.top](http://www.bytesc.top) 含轻量化版本在线演示
 
-[轻量化版本链接](https://github.com/bytesc/Image-Recognition-system)
+[轻量化版本链接](https://github.com/bytesc/Image-Recognition-system) 包含模型训练代码
 
 ## 功能简介
 
