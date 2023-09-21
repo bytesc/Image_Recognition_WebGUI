@@ -4,9 +4,13 @@
 
 🚩[简体中文文档](./README.md)
 
+[Lightweight version link](https://github.com/bytesc/Image-Recognition-system) includes model training code
+
 [Personal website: www.bytesc.top](http://www.bytesc.top) includes a lightweight version of the online demo.
 
-[Lightweight version link](https://github.com/bytesc/Image-Recognition-system) includes model training code
+[Personal blog: blog.bytesc.top](http://blog.bytesc.top) 
+
+🔔 If you have any project-related questions, feel free to raise an `issue` in this project, I will usually reply within 24 hours.
 
 ## Feature Introduction
 

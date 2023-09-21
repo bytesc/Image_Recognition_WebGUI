@@ -4,9 +4,13 @@
 
 🚩[English Readme](./README.en.md)
 
+[轻量化版本链接](https://github.com/bytesc/Image-Recognition-system) 包含模型训练代码
+
 [个人网站：www.bytesc.top](http://www.bytesc.top) 含轻量化版本在线演示
 
-[轻量化版本链接](https://github.com/bytesc/Image-Recognition-system) 包含模型训练代码
+[个人博客：blog.bytesc.top](http://blog.bytesc.top)
+
+🔔 如有项目相关问题，欢迎在本项目提出`issue`，我一般会在 24 小时内回复。
 
 ## 功能简介
 
