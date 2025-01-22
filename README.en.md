@@ -2,6 +2,8 @@
 
 ✨ **An Alzheimer's intelligent diagnosis web application based on 3D Convolutional Neural Network and the ADNI Dataset**: AI artificial intelligence image recognition-Pytorch; visualization Web graphic interface-Pywebio; nii medical image recognition. 100% pure Python.
 
+[📽️ Demo Video ./demo_video.mp4](./demo_video.mp4)
+
 🚩[简体中文文档](./README.md)
 
 [Lightweight version link](https://github.com/bytesc/Image-Recognition-system) includes model training code

@@ -2,6 +2,8 @@
 
 ✨ **基于 3D 卷积神经网络和 ADNI 数据集的阿尔兹海默智能诊断 Web 应用**：AI 人工智能图像识别-Pytorch；可视化 Web 图形界面-Pywebio； nii 医学影像识别。100%纯 Python
 
+[📽️ 演示视频 ./demo_video.mp4](./demo_video.mp4)
+
 🚩[English Readme](./README.en.md)
 
 [轻量化版本链接](https://github.com/bytesc/Image-Recognition-system) 包含模型训练代码
