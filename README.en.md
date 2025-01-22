@@ -6,7 +6,7 @@
 
 [Lightweight version link](https://github.com/bytesc/Image-Recognition-system) includes model training code
 
-[Personal website: www.bytesc.top](http://www.bytesc.top) includes a lightweight version of the online demo.
+[Personal website: www.bytesc.top](http://www.bytesc.top) 
 
 [Personal blog: blog.bytesc.top](http://blog.bytesc.top) 
 
